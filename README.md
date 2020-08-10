@@ -5,7 +5,7 @@ Various Jupyter Scripts for plotting
 
 # create_csv_Linesearch_by_extension
 
-**What it does**: \n",
+**What it does**:
 - searches for numbers within all files in directory with specified extension `findending` e.g. within an output file of a simulation
 
 1. Search for lines (Parameter: `findtext`)
